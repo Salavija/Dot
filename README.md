@@ -1,3 +1,3 @@
 # Dot
-Dot for everything
+Dot for everything.
 NFQ akademijos užduotis
